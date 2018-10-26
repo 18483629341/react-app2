@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import {BrowserRouter as Router, Route, Link, Prompt, Redirect} from "react-router-dom";
+                                             //页面跳转时的提醒
 import logo from './logo.svg';//引入图片
 import './App.css';//引入
 

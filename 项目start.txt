@@ -1,0 +1,6 @@
+理清项目目录
+     login
+    src>common>pages>login>index.js
+                          +routes.js   中设置路由
+    index.js    中引入routes
+     
